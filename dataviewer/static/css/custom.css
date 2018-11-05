@@ -1,0 +1,10 @@
+
+body{
+  /* background-color: rgb(255, 128, 0, 0.5); */
+}
+
+
+/* table */
+th,thead,tr{
+  text-align: center;
+}
